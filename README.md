@@ -35,7 +35,7 @@ Aplicação Full-Stack desenvolvida para gerenciar o agendamento de salas de reu
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/mdaadsilva/projeto-reunioes
+    git clone https://github.com/mdaadsilva/GerenciadorDeReunioes
     ```
 
 2.  **Configure o Banco de Dados:**
