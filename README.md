@@ -1,4 +1,4 @@
-# Projeto 1: Sistema de Agendamento de Reuniões
+# Projeto: Sistema de Agendamento de Reuniões
 
 Aplicação Full-Stack desenvolvida para gerenciar o agendamento de salas de reunião, como parte de um processo de avaliação de habilidades.
 
